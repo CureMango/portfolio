@@ -25,6 +25,7 @@ header('Location: /mobile/index.html');
 		<li><a href="services" accesskey="3" title="">Services</a></li>
 		<li><a href="https://github.com/CureMango" target="_blank" accesskey="4" title=""><i class="icon-github-alt"></i>GitHub</a></li>
 		<li><a href="contact.php" accesskey="5" title="">Contact Me</a></li>
+		<li><a href="admin_login.php" accesskey="6">Business Contacts</a></li>
 	</ul>
 </div>
 <div id="page" class="container">
